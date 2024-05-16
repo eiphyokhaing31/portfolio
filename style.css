@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+   background-image: url("p.jpeg");
+   height: 100%;
+   
+
+}
+
+.container{
+            
+    display: block;
+    justify-content: center;
+     
+    
+    
+}
+.nav-bar{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    
+    margin-bottom: 40px;
+    
+}
+a{
+    color: white;
+    
+}
+a:hover{
+    color: aquamarine;
+
+    
+}
+.content{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
